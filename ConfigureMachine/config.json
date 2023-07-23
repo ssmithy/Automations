@@ -1,0 +1,76 @@
+{
+    "User": {
+        "Name": "Me",
+        "Email": "me@here.com"
+    },
+    "Chocolatey": {
+        "Enabled": false,
+        "Packages": [
+            "googlechrome",
+            "notepadplusplus.install",
+            "git.install",
+            "vscode.install",
+            "visualstudio2022community",
+            "sql-server-management-studio",
+            "postman",
+            "github-desktop",
+            "docker-desktop",
+            "docker-cli",
+            "wsl2",
+            "powertoys",
+            "devtoys",
+            "linqpad",
+            "visualstudio2022-workload-netweb",
+            "visualstudio2022-workload-node",
+            "visualstudio2022-workload-manageddesktop",
+            "visualstudio2022-workload-netcrossplat"
+        ]
+    },
+    "PowerSettings": {
+        "_note": "set the screen timeouts low and use PowerToys to extend for 2hr, until notice etc.",
+        "ScreenTimeoutAC": 10,
+        "ScreenTimeoutDC": 10,
+        "SleepTimeoutAC": 20,
+        "SleepTimeoutDC": 15,
+        "DeleteOtherPlans": true
+    },
+    "Themes": {
+        "DarkMode": true
+    },
+    "Development": {
+        "Root": "D:\\",
+        "SourceFolderName": "Source",
+        "Icon": "CODE.ico"
+    },
+    "VSCode": {
+        "Extensions": [
+            "alefragnani.project-manager",
+            "bierner.github-markdown-preview",
+            "bierner.markdown-checkbox",
+            "bierner.markdown-emoji",
+            "bierner.markdown-footnotes",
+            "bierner.markdown-mermaid",
+            "bierner.markdown-preview-github-styles",
+            "bierner.markdown-yaml-preamble",
+            "codezombiech.gitignore",
+            "donjayamanne.git-extension-pack",
+            "donjayamanne.githistory",
+            "eamodio.gitlens",
+            "ecmel.vscode-html-css",
+            "EditorConfig.EditorConfig",
+            "ms-dotnettools.csharp",
+            "ms-vscode.cmake-tools",
+            "ms-vscode.cpptools",
+            "ms-vscode.cpptools-extension-pack",
+            "ms-vscode.cpptools-themes",
+            "ms-vscode.makefile-tools",
+            "ms-vscode.powershell",
+            "ritwickdey.LiveServer",
+            "twxs.cmake",
+            "xaver.clang-format",
+            "ziyasal.vscode-open-in-github",
+            "esbenp.prettier-vscode",
+            "ms-azuretools.vscode-docker"
+        ]
+    }
+}
